@@ -1,0 +1,6 @@
+O usuário poderá executar o programa na linha de comando;
+O usuário poderá iniciar uma partida, ou sair do jogo;
+O usuário poderá, ao iniciar uma partida, ver a quantidade de letras na palavra, que deverá ser gerada aleatóriamente;
+O usuário poderá digitar no console uma letra, que caso contenha na palavra, preencherá um espaço em branco, caso contrário, o usuário perde uma vida;
+O usuário vence a partida caso descubra todas as letras da palavra, neste caso, ele visualiza uma mensagem de sucesso na tela;
+O usuário perde a partida caso selecione 5 letras erradas;

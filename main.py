@@ -23,7 +23,7 @@ if game == 'sim' or game == 'SIM' or game == 's':
             if letra not in acerto:
                 resultado = resultado.replace(letra, '_')
         print(resultado)
-        letrav = input('digite uma letra:')
+        letrav = input('digite uma letra:').lower()
         for letras in resposta:
             if letras == letrav:
                 # print(letrav)
